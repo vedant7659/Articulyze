@@ -1,4 +1,4 @@
-Articulyze
+Articulyze (Hackathon Project)
 
 
 
